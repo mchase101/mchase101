@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Mina
 About Me
 
-I'm currently enrolled in full-time training program with Generation Singapore acquired technical skills in product life cycles on Git and Github, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. In my free time I enjoy finding calm through drawing and watching cinematic and documentary film. 
+I'm currently enrolled in full-time training program with Generation Singapore acquired technical skills in product life cycles on **Git and Github**, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. 
+
+📫 How to reach me: minasuti@proton.me
+⚡ Fun fact: In my free time I enjoy finding calm through drawing and watching cinematic and documentary film. 
 
 <!--
 **mchase101/mchase101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
