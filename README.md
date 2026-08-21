@@ -8,6 +8,12 @@ I'm currently enrolled in full-time training program with Generation Singapore a
 
 ⚡ Fun fact: In my free time I enjoy finding calm through drawing and watching cinematic and documentary film. 
 
+## Tech Stack
+
+- **Frontend:** ![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=light)
+- **Backend:** ![Backend](https://skillicons.dev/icons?i=java,mysql,spring&theme=light)
+- **Tools:** ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=light)
+
 <!--
 **mchase101/mchase101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
