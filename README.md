@@ -14,7 +14,7 @@
 
 ## Hi there 👋 I'm Mina
 
-** 🧑‍💻About Me**
+🧑‍💻**About Me**
 
 I'm currently enrolled in full-time training program with **Generation Singapore** acquired technical skills in product life cycles on **Git and Github**, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. 
 
