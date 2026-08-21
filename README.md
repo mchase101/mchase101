@@ -46,6 +46,30 @@ I'm currently enrolled in full-time training program with **Generation Singapore
 
 <br/>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchase101&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=8A2BE2" alt="github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchase101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&langs_count=8" alt="top languages" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mchase101&theme=tokyonight&hide_border=true&background=0D1117&ring=4169E1&fire=8A2BE2&currStreakLabel=4169E1" alt="streak stats" />
+
+<br/>
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mchase101&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4169E1&line=8A2BE2&point=ffffff&area=true&area_color=4169E1" alt="activity graph" />
+
+</div>
+
+<br/>
+
+
+
+
 ## 💬 Dev Quote of the Moment
 
 <div align="center">
