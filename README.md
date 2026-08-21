@@ -1,6 +1,20 @@
+<div align="center">
+
+<!-- ===================== ANIMATED WAVING HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=210&section=header&text=Mina%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=56&descSize=18&animation=fadeIn" alt="header" />
+
+<!-- ===================== LIVE TYPING ANIMATION ===================== -->
+<a href="https://github.com/mchase101">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=620&lines=Welcome+to+my+corner+of+GitHub!;I+build+full-stack+web+apps+%F0%9F%92%BB;I+turn+ideas+into+code+%E2%9A%A1;Always+learning+something+new+%F0%9F%9A%80" alt="typing animation" />
+</a>
+
+<br/>
+
+
+
 ## Hi there 👋 I'm Mina
 
-**About Me**
+** 🧑‍💻About Me**
 
 I'm currently enrolled in full-time training program with **Generation Singapore** acquired technical skills in product life cycles on **Git and Github**, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. 
 
