@@ -14,6 +14,22 @@ I'm currently enrolled in full-time training program with Generation Singapore a
 - **Backend:** ![Backend](https://skillicons.dev/icons?i=java,mysql,spring&theme=light)
 - **Tools:** ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=light)
 
+## 📌 Featured Projects
+
+<div align="center">
+
+<!--
+<a href="https://github.com/rchase999/your-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rchase999&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=8A2BE2" alt="repo 1" />
+</a>
+-->
+<a href="https://fsd08-team-green.netlify.app/landing-page.html">
+</div>
+
+<br/>
+
+
+
 <!--
 **mchase101/mchase101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
