@@ -26,9 +26,9 @@ I'm currently enrolled in full-time training program with **Generation Singapore
 
 ## Tech Stack
 
-- **Frontend:** ![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=light)
-- **Backend:** ![Backend](https://skillicons.dev/icons?i=java,mysql,spring&theme=light)
-- **Tools:** ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=light)
+**Frontend:** ![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=light)
+**Backend:** ![Backend](https://skillicons.dev/icons?i=java,mysql,spring&theme=light)
+**Tools:** ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=light)
 
 <br/>
 
