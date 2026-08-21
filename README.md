@@ -2,17 +2,21 @@
 
 **About Me**
 
-I'm currently enrolled in full-time training program with Generation Singapore acquired technical skills in product life cycles on **Git and Github**, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. 
+I'm currently enrolled in full-time training program with **Generation Singapore** acquired technical skills in product life cycles on **Git and Github**, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. 
 
 📫 How to reach me: minasuti@proton.me
 
 ⚡ Fun fact: In my free time I enjoy finding calm through drawing and watching cinematic and documentary film. 
+
+<br/>
 
 ## Tech Stack
 
 - **Frontend:** ![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=light)
 - **Backend:** ![Backend](https://skillicons.dev/icons?i=java,mysql,spring&theme=light)
 - **Tools:** ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=light)
+
+<br/>
 
 ## 📌 Featured Projects
 
@@ -28,6 +32,38 @@ I'm currently enrolled in full-time training program with Generation Singapore a
 
 <br/>
 
+## 💬 Dev Quote of the Moment
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+</div>
+
+<br/>
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="random dev joke" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rchase999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+
+</div>
+
+<br/>
 
 
 <!--
