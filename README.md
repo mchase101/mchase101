@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Mina
+About Me
+
+I'm currently enrolled in full-time training program with Generation Singapore acquired technical skills in product life cycles on Git and Github, develop responsive & scalable web applications and hands-on experience in applying behavior skills such Teamwork, Personal Responsibility, Future Orientation, Growth Mindset and Resilience. In my free time I enjoy finding calm through drawing and watching cinematic and documentary film. 
 
 <!--
 **mchase101/mchase101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
